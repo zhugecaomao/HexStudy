@@ -1,2 +1,2 @@
 # HexStudy
- Study Hex
+#Study Hex
